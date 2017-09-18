@@ -26,7 +26,7 @@ clean:
 
 extension: ./schemas/gschemas.compiled $(MSGSRC:.po=.mo)
 
-./schemas/gschemas.compiled: ./schemas/org.gnome.shell.extensions.suspend-button.gschema.xml
+./schemas/gschemas.compiled: ./schemas/org.gnome.shell.extensions.pop-suspend-button.gschema.xml
 	glib-compile-schemas ./schemas/
 
 ./locale/%.mo: ./locale/%.po
