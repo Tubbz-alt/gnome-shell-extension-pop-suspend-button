@@ -13,7 +13,7 @@
     "3.24",
     "3.26"
   ],
-  "url": "https://github.com/laserb/gnome-shell-extension-pop-suspend-button",
-  "uuid": "pop-suspend-button@laserb",
-  "version": 6
+  "url": "https://github.com/system76/gnome-shell-extension-pop-suspend-button",
+  "uuid": "pop-suspend-button@system76",
+  "version": 7
 }
