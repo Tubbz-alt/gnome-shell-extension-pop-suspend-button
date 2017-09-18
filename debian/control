@@ -1,0 +1,13 @@
+Source: gnome-shell-extension-suspend-button
+Section: gnome
+Priority: optional
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 3.9.8
+Homepage: https://github.com/system76/gnome-shell-extension-suspend-button
+Vcs-Git: https://github.com/system76/gnome-shell-extension-suspend-button.git
+
+Package: gnome-shell-extension-suspend-button
+Architecture: all
+Depends: gnome-shell (>= 3.25), ${misc:Depends}
+Description: Gnome-shell extension to add suspend button

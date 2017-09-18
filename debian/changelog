@@ -1,0 +1,5 @@
+gnome-shell-extension-suspend-button (1.0.0) artful; urgency=medium
+
+  * Initial release.
+
+ -- Jeremy Soller <jeremy@system76.com>  Thu, 18 Sep 2017 11:46:43 -0600
