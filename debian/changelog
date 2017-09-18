@@ -1,3 +1,9 @@
+gnome-shell-extension-pop-suspend-button (1.0.2) artful; urgency=medium
+
+  * Add libglib2.0-bin to Build-Depends
+
+ -- Jeremy Soller <jeremy@system76.com>  Mon, 18 Sep 2017 11:57:22 -0600
+
 gnome-shell-extension-pop-suspend-button (1.0.1) artful; urgency=medium
 
   * Fix metadata
