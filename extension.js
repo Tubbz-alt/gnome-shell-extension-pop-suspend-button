@@ -32,7 +32,7 @@ const ExtensionSystem = imports.ui.extensionSystem;
 const SHOW_TWO_BUTTONS = 'show-two-buttons';
 const SUSPEND_DEFAULT = 'suspend-default';
 
-const Gettext = imports.gettext.domain('gnome-shell-extension-suspend-button');
+const Gettext = imports.gettext.domain('gnome-shell-extension-pop-suspend-button');
 const _ = Gettext.gettext;
 
 const Me = imports.misc.extensionUtils.getCurrentExtension();
