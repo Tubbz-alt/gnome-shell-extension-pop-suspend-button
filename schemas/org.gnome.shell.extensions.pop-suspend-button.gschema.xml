@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schemalist gettext-domain="gnome-shell-extensions-suspend-button">
-  <schema path="/org/gnome/shell/extensions/suspend-button/" id="org.gnome.shell.extensions.suspend-button">
+<schemalist gettext-domain="gnome-shell-extensions-pop-suspend-button">
+  <schema path="/org/gnome/shell/extensions/pop-suspend-button/" id="org.gnome.shell.extensions.pop-suspend-button">
     <key type="b" name="show-two-buttons">
         <default>true</default>
         <summary>Show two distinct buttons instead of alt-switch-button.</summary>
